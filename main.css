@@ -1,0 +1,50 @@
+body{
+    background-color:black
+}
+
+.images img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+    
+
+h1{color:white;
+    text-align: center;
+    font-family: verdana}
+h2{color:white;
+    font-family: verdana}
+h3{color:white;
+    font-size: 27px;
+    font-family: verdana}
+h4{color:white;
+        font-size: 27px;
+        font-family: verdana}
+
+p{
+    color:white;
+    font-size:  25px;
+}
+
+a{list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;}
+    
+#navbar{
+    background-color:white;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+          
+a {float: left; }
+          
+a {
+  display: float;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;}
+          
+  a:hover {background-color:gold;}
